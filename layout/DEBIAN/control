@@ -1,0 +1,9 @@
+Package: jp.r-plus.chromeforactionmenu
+Priority: optional
+Section: Addons
+Architecture: iphoneos-arm
+Version: 0.1
+Description: Open in Chrome via ActionMenu
+Name: Chrome for ActionMenu
+Depends: firmware (>= 4.0), actionmenu
+Author: r_plus <anasthasia.r+chrome@gmail.com>
